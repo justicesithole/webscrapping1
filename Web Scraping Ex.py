@@ -1,4 +1,5 @@
 #Web Scraping
+#Make sure you have bs4, webbrowser and request installed as your third party modules
 
 import bs4, webbrowser, requests
 
